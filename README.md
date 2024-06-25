@@ -1,7 +1,7 @@
 # Movie recommendation project
 
 Problem:
-
+Ahmed is sitting on the living room and can't decide which movie should he watch. Build a movie recommendation system to help Ahmed in **deciding** which movie should he watch.
 
 Process:
 - Build a decision tree with a questions that helps to decide which type of movies the user like.
