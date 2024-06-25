@@ -11,16 +11,16 @@ Ex:
 
 decision tree questions :
 
-Q1: Do you like horror movies?
+Q1: Do you like horror movies?  
 A1: No.
 
-Q2: Do you like action movies?
+Q2: Do you like action movies?  
 A2: Yes.
 
-Q3: Do you like old movies (before 2000)?
+Q3: Do you like old movies (before 2000)?  
 A3: Yes.
 
-Q4: Do you like animation movies?
+Q4: Do you like animation movies?  
 A4: No.
 
 Based on the user's answers, the recomended movie should have the below prperirties:
