@@ -23,9 +23,12 @@ A3: Yes.
 Q4: Do you like animation movies?
 A4: No.
 
-What do we know from the user?
-The user likes:
-Action movie
+Based on the user's answers, the recomended movie should have the below prperirties:
+
+- Type: Action movie
+- Kind: real movie
+- Year: before 2000
+- When seraching for the movie with the above properities, we will pick the most rated movie.
 
 
 
