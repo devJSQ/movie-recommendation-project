@@ -9,13 +9,16 @@ Using fundamental data structures and algorithms to solve real-world problems wi
 Ahmed is sitting on the living room infront of the tv, and can't decide which movie should he watch. Build a movie recommendation system to help Ahmed in **deciding** which movie should he watch.
 
 ### Implementation
+- You will be given a list of movies stored in an array.    
+A movie will have the following properities:   
+Id, movie name, movie type, movie rate, movie year, movie kind (animation, real).   
 
 - Build a decision tree with a questions that helps to decide which type of movies the user like.
-- Read the movies from an array.
+- Read the movies from the array.
 - A movie will have the following properities: Id, movie name, movie type, movie rate, movie year, movie kind (animation, real).
 - Based on the user answers the system will recommend a movie for the user to watch.
 
-Example:
+Run time example:
 
 Q1: Do you like horror movies?  
 A1: No.
