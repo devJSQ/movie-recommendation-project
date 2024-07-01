@@ -13,9 +13,10 @@ Ahmed is sitting on the living room infront of the tv, and can't decide which mo
 A movie will have the following properities:   
 `Id`, `name`, `type`, `rate`, `year`, `kind` (animation, real).   
 
-- Build a decision tree with a questions that helps to decide which type of movies the user like.
+- Build a decision tree with a questions that helps to decide which type of movies the user would like.
+- Ask
 - Read the movies from the array.
-- Based on the user answers the system will recommend a movie for the user to watch.
+- Based on the user answers the system should recommend a movie for the user that meets the user perfrences.
 
 Run time example:
 
