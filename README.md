@@ -22,7 +22,7 @@ A movie will have the following properities:
 Run time example:
 
 Figure 1 
-<img width="910" alt="Example" src="https://github.com/SAFCSP-Team/movie-recommendation-project/blob/main/images/movie%20recomendation%20system.jpg">
+<img width="350" alt="Example" src="https://github.com/SAFCSP-Team/movie-recommendation-project/blob/main/images/movie%20recomendation%20system.jpg">
 
 
 Quesion(1): Do you like horror movies?  
