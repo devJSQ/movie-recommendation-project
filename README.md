@@ -2,7 +2,7 @@
 
 
 ### Objective
-Using fundamental data structures and algorithms to solve real-world problems with arrays.
+Using fundamental data structures and algorithms to solve real-world problems with tree.
 
 
 ### Problem    
