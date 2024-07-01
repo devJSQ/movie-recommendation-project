@@ -5,7 +5,7 @@
 Using fundamental data structures and algorithms to solve real-world problems with arrays.
 
 
-### Problem:   
+### Problem    
 Ahmed is sitting on the living room infront of the tv, and can't decide which movie should he watch. Build a movie recommendation system to help Ahmed in **deciding** which movie should he watch.
 
 - You will be given a list of movies stored in an array.    
