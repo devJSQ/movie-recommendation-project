@@ -32,6 +32,10 @@ Based on the user's answers, the recomended movie should have the below properti
 - Year: before 2000.
 - When searching for the movie with the above properities, we will pick the most rated movie.
 
+Decision:
+
+Figure 2    
+<img width="350" alt="Example" src="https://github.com/SAFCSP-Team/movie-recommendation-project/blob/main/images/Decision.jpg">
 
 
 
