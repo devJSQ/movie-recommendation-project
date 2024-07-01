@@ -15,7 +15,7 @@ A movie will have the following properities:
 ### Implementation
    
 - Build a decision tree with a questions that helps to decide which type of movies the user would like.
-- Ask the user `Yes` or `No` questions from the decision tree. 
+- The decision tree should store`Yes` or `No` questions.
 - Read the movies from the array.
 - Based on the user answers the system should recommend a movie for the user that meets the user perfrences.
 
