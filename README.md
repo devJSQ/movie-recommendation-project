@@ -27,7 +27,7 @@ Figure 1
    
 Based on the user's answers, the recomended movie should have the below properties:
 
-- Type: Action movie.
+- Type: action movie.
 - Kind: real movie.
 - Year: before 2000.
 - When searching for the movie with the above properities, we will pick the most rated movie.
