@@ -62,8 +62,8 @@ User: Yes.
    
 System:       
 We recommend the following movie for you:   
-Movie name: The Matrix   
-Year: 1999   
+movie name: The Matrix   
+year: 1999   
 genre: Action   
 Rate: 8.7   
    
@@ -80,8 +80,8 @@ User: Yes.
    
 System:       
 We recommend the following movie for you:   
-Movie name: The Lion King   
-Year: 1994      
+movie name: The Lion King   
+year: 1994      
 genre: Animated   
 Rate: 8.5  
 
@@ -91,8 +91,8 @@ System: Do you like comedy movies?
 User: No.   
 System: Do you like action movies?   
 User: No.   
-System: Do you like animated movies?   
-User: No.
+System: Do you like animated movies?    
+User: No.   
 System: Do you like drama movies?   
 User: Yes.   
 System: Do you like old movies (before 2000)?   
@@ -100,8 +100,8 @@ User: No.
    
 System:       
 We recommend the following movie for you:   
-Movie name: Oppenheimer   
-Year: 2023      
+movie name: Oppenheimer   
+year: 2023      
 genre: Drama   
 Rate: 8.3  
 
