@@ -32,7 +32,7 @@ Based on the user's answers, the recommended movie should have the following pro
 
 - Genre: action movie.
 - Year: before 2000.
-- When searching for the movie with the above properties, we will pick the most rated movie.   
+- When searching for the movie with the above properties, The system should pick the most rated movie.   
 
 System:    
 We recommend the following movie for you:   
