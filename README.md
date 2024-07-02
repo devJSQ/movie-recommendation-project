@@ -25,7 +25,7 @@ System: Do you like comedy movies?
 User: No.   
 System: Do you like action movies?   
 User: Yes.   
-System: Do you like old movies? (before 2000)?   
+System: Do you like old movies (before 2000)?   
 User: Yes.   
 
 Based on the user's answers, the recommended movie should have the following properties:
