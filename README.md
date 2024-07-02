@@ -17,7 +17,7 @@ Ahmed is sitting in the living room in front of the TV, and can't decide which m
 - Build a decision tree with questions that help to decide which type of movies the user would like.
 - The decision tree should store `Yes` or `No` **questions**.
 - Read the movies from the array.
-- Based on the user's answers the system should recommend a movie for the user that meets the user's preferences.
+- Based on the user's answers the system should recommend a movie that meets the user's preferences.
 
 - Add your code in `DecisionTree.java` and `Main.java` classes.
 
