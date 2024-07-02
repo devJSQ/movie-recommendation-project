@@ -21,9 +21,6 @@ Ahmed is sitting in the living room in front of the TV, and can't decide which m
 
 Run time example:
 
-Figure 1    
-<img width="350" alt="Example" src="https://github.com/SAFCSP-Team/movie-recommendation-project/blob/main/images/movie%20recomendation%20system.jpg">
-
    
 Based on the user's answers, the recommended movie should have the following properties:
 
@@ -33,9 +30,6 @@ Based on the user's answers, the recommended movie should have the following pro
 - When searching for the movie with the above properties, we will pick the most rated movie.
 
 Decision:
-
-Figure 2    
-<img width="350" alt="Example" src="https://github.com/SAFCSP-Team/movie-recommendation-project/blob/main/images/Decision.jpg">
 
 
 
