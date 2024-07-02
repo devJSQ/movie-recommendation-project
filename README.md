@@ -56,7 +56,7 @@ System: Do you like comedy movies?
 User: No.   
 System: Do you like action movies?   
 User: Yes.   
-System: Do you like old movies? (before 2000)?   
+System: Do you like old movies (before 2000)?   
 User: Yes.   
 System:       
 We recommend the following movie for you:   
@@ -73,8 +73,8 @@ System: Do you like action movies?
 User: No.   
 System: Do you like animated movies?   
 User: Yes.   
-System: Do you like old movies? (before 2000)?   
-User: No.   
+System: Do you like old movies (before 2000)?   
+User: Yes.   
 System:       
 We recommend the following movie for you:   
 Movie name: The Lion King   
@@ -83,6 +83,7 @@ genre: Animated
 Rate: 8.5  
 
 - [ ] Test case 3:
+
 
 
 
