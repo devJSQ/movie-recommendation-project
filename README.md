@@ -34,8 +34,6 @@ Based on the user's answers, the recommended movie should have the following pro
 - Year: before 2000.
 - When searching for the movie with the above properties, we will pick the most rated movie.   
 
-Decision:
-
 System:    
 We recommend the following movie for you:   
 Movie name: The Matrix   
