@@ -47,8 +47,7 @@ Rate: 8.7
 - [ ] The code should run successfully.
 - [ ] Completely define the decision tree class.
 - [ ] Completely define the Main class.
-- [ ] Run all the test cases below:
-- [ ] Complete all the below test cases:
+- [ ] Run and test all the below test cases:
 
 - [ ] Test case 1:
    
@@ -83,6 +82,26 @@ genre: Animated
 Rate: 8.5  
 
 - [ ] Test case 3:
+
+System: Do you like comedy movies?   
+User: No.   
+System: Do you like action movies?   
+User: No.   
+System: Do you like animated movies?   
+User: No.
+System: Do you like drama movies?   
+User: Yes.   
+System: Do you like old movies (before 2000)?   
+User: No.   
+System:       
+We recommend the following movie for you:   
+Movie name: Oppenheimer   
+Year: 2023      
+genre: Drama   
+Rate: 8.3  
+
+
+
 
 
 
