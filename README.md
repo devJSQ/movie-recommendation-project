@@ -10,7 +10,7 @@ Ahmed is sitting in the living room in front of the TV, and can't decide which m
 
 - You will be given a list of movies stored in an array.    
 - A movie will have the following properties:   
-`Id`, `name`, `type`, `rate`, `year`, `genre` (animation, comedy).
+`Id`, `name`, `rate`, `year`, `genre` (animation, comedy, action).
 
 ### Implementation
    
@@ -28,7 +28,7 @@ Figure 1
 Based on the user's answers, the recommended movie should have the following properties:
 
 - Type: action movie.
-- Genre: real movie.
+- Genre: action movie.
 - Year: before 2000.
 - When searching for the movie with the above properties, we will pick the most rated movie.
 
