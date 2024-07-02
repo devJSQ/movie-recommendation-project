@@ -2,7 +2,7 @@
 
 
 ### Objective
-Using fundamental data structures and algorithms to solve real-world problems with trees.
+Using fundamental data structures and algorithms, solve real-world problems with trees.
 
 
 ### Problem    
@@ -10,7 +10,7 @@ Ahmed is sitting in the living room in front of the TV, and can't decide which m
 
 - You will be given a list of movies stored in an array.    
 - A movie will have the following properties:   
-`Id`, `name`, `type`, `rate`, `year`, `generality` (animation, real).
+`Id`, `name`, `type`, `rate`, `year`, `genre` (animation, comedy).
 
 ### Implementation
    
