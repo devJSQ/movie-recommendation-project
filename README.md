@@ -10,7 +10,7 @@ Ahmed is sitting on the living room infront of the tv, and can't decide which mo
 
 - You will be given a list of movies stored in an array.    
 - A movie will have the following properities:   
-`Id`, `name`, `type`, `rate`, `year`, `kind` (animation, real).
+`Id`, `name`, `type`, `rate`, `year`, `generality` (animation, real).
 
 ### Implementation
    
