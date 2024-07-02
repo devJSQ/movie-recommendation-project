@@ -57,6 +57,7 @@ System: Do you like action movies?
 User: Yes.   
 System: Do you like old movies (before 2000)?   
 User: Yes.   
+   
 System:       
 We recommend the following movie for you:   
 Movie name: The Matrix   
@@ -74,6 +75,7 @@ System: Do you like animated movies?
 User: Yes.   
 System: Do you like old movies (before 2000)?   
 User: Yes.   
+   
 System:       
 We recommend the following movie for you:   
 Movie name: The Lion King   
@@ -93,6 +95,7 @@ System: Do you like drama movies?
 User: Yes.   
 System: Do you like old movies (before 2000)?   
 User: No.   
+   
 System:       
 We recommend the following movie for you:   
 Movie name: Oppenheimer   
