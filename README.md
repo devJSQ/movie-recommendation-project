@@ -10,7 +10,7 @@ Ahmed is sitting in the living room in front of the TV, and can't decide which m
 
 - You will be given a list of movies stored in an array.    
 - A movie will have the following properties:   
-`Id`, `name`, `rate`, `year`, `genre` (animation, comedy, action).
+`Id`, `name`, `rate`, `year`, `genre` (animation, comedy, action, drama).
 
 ### Implementation
    
