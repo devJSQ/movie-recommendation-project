@@ -1,11 +1,11 @@
 # Movie recommendation project
 
 
-### Objective
+## Objective
 Using fundamental data structures and algorithms, solve real-world problems with trees.
 
 
-### Problem    
+## Problem    
 Ahmed is sitting in the living room in front of the TV, and can't decide which movie to watch. Build a movie recommendation system to help Ahmed **decide** which movie to watch.
 
 - You will be given a list of movies stored in an array.    
@@ -13,7 +13,7 @@ Ahmed is sitting in the living room in front of the TV, and can't decide which m
 `Id`, `name`, `rate`, `year`, `genre` (animation, comedy, action, drama).   
 - You can find the movie list in the `Main.java` class.  
 
-### Implementation
+## Implementation
    
 - Build a decision tree with questions that help to decide which type of movies the user would like.
 - The decision tree should store `Yes` or `No` questions.
@@ -46,12 +46,12 @@ Rate: 8.7
 
 
 
-### Qualification to pass
+## Qualification to pass
 - [ ] The code should run successfully.
 - [ ] Completely define the decision tree class.
 - [ ] Completely define the Main class.
 - [ ] Run and test all the below test cases:
-
+   
 - [ ] Test case 1:
    
 System: Do you like comedy movies?   
