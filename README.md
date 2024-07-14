@@ -30,19 +30,18 @@ System: Do you like action movies?
 User: Yes.   
 System: Do you like old movies (before 2000)?   
 User: Yes.   
-
-Based on the user's answers, the recommended movie should have the following properties:
-
-- Genre: action movie.
-- Year: before 2000.
-- When searching for the movie with the above properties, The system should pick the most rated movie.   
-
 System:    
 We recommend the following movie for you:   
 Movie name: The Matrix   
 Year: 1999   
 genre: Action   
 Rate: 8.7   
+
+Based on the user's answers, the recommended movie should have the following properties:
+
+- Genre: action movie.
+- Year: before 2000.
+- When searching for the movie with the above properties, The system should pick the most rated movie.   
 
 
 
