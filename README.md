@@ -20,7 +20,7 @@ Ahmed is sitting in the living room in front of the TV, and can't decide which m
 - Read the movies from the array.
 - Based on the user's answers the system should recommend a movie that meets the user's preferences.
 
-- Add your code to the `DecisionTree.java` and `Main.java` classes.
+- Add your code to the `DecisionTree` and `Main` classes.
 
 ### Run time example
 
